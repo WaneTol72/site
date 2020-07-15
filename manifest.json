@@ -1,7 +1,7 @@
 {
   "name": "Denis's site",
   "short_name": "Denis's site",
-  "start_url": "/",
+  "start_url": "/site/",
   "icons": [
     {
       "src": "./android-chrome-192x192.png",
